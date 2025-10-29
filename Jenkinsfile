@@ -1,4 +1,4 @@
-@Library('ulrich-shared-library')_
+@Library('ab-shared-library')_
 
 pipeline {
     environment {
